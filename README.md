@@ -9,3 +9,4 @@ Created this repo to contribute diffrernt machine learning solutions that I crea
 5) Bhavesh Bhatt :- https://www.youtube.com/watch?v=924X7NUoVb8
 
 ## Links of some youtube channels where you can learn Data Science basics:
+1) StatQuest with Josh Starmer  :- https://www.youtube.com/c/joshstarmer/playlists
