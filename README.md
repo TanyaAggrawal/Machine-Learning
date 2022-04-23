@@ -12,4 +12,4 @@ Created this repo to contribute diffrernt machine learning solutions that I crea
 1) StatQuest with Josh Starmer  :- https://www.youtube.com/c/joshstarmer/playlists
 2) freeCodeCamp.org :- https://www.youtube.com/c/Freecodecamp/playlists
 3) Krish Naik :- https://www.youtube.com/user/krishnaik06
-4) Corey Schafer :- 
+4) Corey Schafer :- https://www.youtube.com/c/Coreyms/playlists
