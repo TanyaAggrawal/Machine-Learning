@@ -14,3 +14,6 @@ Created this repo to contribute diffrernt machine learning solutions that I crea
 3) Krish Naik :- https://www.youtube.com/user/krishnaik06
 4) Corey Schafer :- https://www.youtube.com/c/Coreyms/playlists
 5) Sentdex :- https://www.youtube.com/c/sentdex/playlists
+
+## Links of some youtube channels for Machine learning:
+1)
