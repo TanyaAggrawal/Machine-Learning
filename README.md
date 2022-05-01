@@ -17,3 +17,4 @@ Created this repo to contribute diffrernt machine learning solutions that I crea
 
 ## Links of some youtube channels for Machine learning:
 1) Simplilearn :- https://www.youtube.com/watch?v=ukzFI9rgwfU&list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy
+2) Data School :- 
