@@ -20,4 +20,4 @@ Created this repo to contribute diffrernt machine learning solutions that I crea
 2) Data School :- https://www.youtube.com/c/dataschool/videos
 3) Artificial Intelligence :- https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 4) Deeplearning.ai :- https://www.youtube.com/c/Deeplearningai/playlists
-5) Jeremy Howard :- 
+5) Jeremy Howard :- https://www.youtube.com/user/howardjeremyp/playlists
