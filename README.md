@@ -2,7 +2,7 @@
 Created this repo to contribute diffrernt machine learning solutions that I created using existing Machine Learning and Deep Learning Models.
 
 ## Links of some youtube channels where you can learn statistics:
-1) 3BLUE1BROWN :- https://www.youtube.com/c/3blue1brown/playlists
+1) 3BLUE1BROWN : https://www.youtube.com/c/3blue1brown/playlists
 2) Khan Academy  :- https://www.youtube.com/c/khanacademy/playlists
 3) Numberphile  :- https://www.youtube.com/c/numberphile/playlists
 4) Great Learning :- https://www.youtube.com/watch?v=o8f2w0Q0ME4 
@@ -20,4 +20,4 @@ Created this repo to contribute diffrernt machine learning solutions that I crea
 2) Data School :- https://www.youtube.com/c/dataschool/videos
 3) Artificial Intelligence : https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 4) Deeplearning.ai :- https://www.youtube.com/c/Deeplearningai/playlists
-5) Jeremy Howard : https://www.youtube.com/user/howardjeremyp/playlists
+5) Jeremy Howard :- https://www.youtube.com/user/howardjeremyp/playlists
