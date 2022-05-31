@@ -10,8 +10,8 @@ Created this repo to contribute diffrernt machine learning solutions that I crea
 
 ## Links of some youtube channels where you can learn Data Science basics:
 1) StatQuest with Josh Starmer  :- https://www.youtube.com/c/joshstarmer/playlists
-2) freeCodeCamp.org :- https://www.youtube.com/c/Freecodecamp/playlists
-3) Krish Naik :- https://www.youtube.com/user/krishnaik06
+2) freeCodeCamp.org : https://www.youtube.com/c/Freecodecamp/playlists
+3) Krish Naik : https://www.youtube.com/user/krishnaik06
 4) Corey Schafer :- https://www.youtube.com/c/Coreyms/playlists
 5) Sentdex :- https://www.youtube.com/c/sentdex/playlists
 
